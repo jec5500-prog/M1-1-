@@ -11,13 +11,15 @@
 2. 단기적인 가격 노이즈(일일 변동)가 가장 심했던 시기는 언제이며, 그 변동폭은 어느 정도인가?
 3. 20일 이동평균선(추세)과 실제 일일 주가의 이격이 커지는 구간은 무엇을 의미하는가?
 
-## 3. 시각화 결과물
-### [시각화 1] 종가 및 20일 이동평균선 (트렌드 분석)
-![Trend Analysis](./images/trend_analysis.png)
-*(위 이미지는 `analysis.py` 스크립트 실행 시 `./images/` 폴더에 생성됩니다.)*
+### [시각화 1] 종가 트렌드와 60일 이동평균선
+![Coffee Trend Analysis](./images/01_trend.png)
 
-### [시각화 2] 일일 주가 수익률 (변동성 분석)
-![Volatility Analysis](./images/volatility_analysis.png)
+### [시각화 2] 일일 주가 수익률 (노이즈 분석)
+![Coffee Volatility Analysis](./images/02_volatility.png)
+
+### [시각화 3] 이격도 분석 (평균 회귀 파악)
+![Coffee Disparity Analysis](./images/03_disparity.png)
+
 
 ## 4. 데이터 인사이트 (관찰과 해석)
 1. **[트렌드와 주기성]** 
