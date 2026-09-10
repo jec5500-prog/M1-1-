@@ -13,13 +13,13 @@
 
 ## 3. 시각화 결과물
 ### [시각화 1] 종가 트렌드와 60일 이동평균선
-![Coffee Trend Analysis](images/01_trend.png)
+<img src="images/01_trend.png" width="100%">
 
 ### [시각화 2] 일일 주가 수익률 (노이즈 분석)
-![Coffee Volatility Analysis](images/02_volatility.png)
+<img src="images/02_volatility.png" width="100%">
 
 ### [시각화 3] 이격도 분석 (평균 회귀 파악)
-![Coffee Disparity Analysis](images/03_disparity.png)
+<img src="images/03_disparity.png" width="100%">
 
 ## 4. 데이터 인사이트 (관찰과 해석)
 1. **[트렌드와 주기성]** 
